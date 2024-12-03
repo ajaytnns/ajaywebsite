@@ -1,0 +1,34 @@
+---
+title: Education and Projects  
+---
+
+## Education
+
+*Case Western Reserve University, School of Medicine*  
+Cleveland, OH  
+**Master’s of Public Health Candidate**  
+**Concentrations:** Intensive Research Pathway, Population Health Sciences  
+**Dates:** Fall 2024 - Current  
+
+*Case Western Reserve University*  
+Cleveland, OH  
+**Bachelor’s of Science (BS) in Biology**  
+**Minors:** Bioethics & Spanish  
+**GPA:** 4.00, Dean’s Honors List  
+**Dates:** Fall 2021 - Summer 2024  
+
+----
+
+## Projects / Work Experience 
+
+The first major research project I was involved with was as a student researcher in the Department of Orthopedics at University Hospitals. 
+The project aimed to understand the use of retrograde intramedullary nails (rIMNs) in the fixation of pathologic femur fractures, as few studies have investigated the safety and efficacy of rIMN in the fixation of pathologic femur lesions. I was heavily involved with data mining and reviewing surgical records on REDCap to idenitfy those patients that received a retrograde as opposed to an antegrade intramedullary nail. The manuscript on the project has been submitted to various journals and our team is waiting to hear back currently. 
+
+The second major research project I have been involved with came through my position as a student researcher in the Department of Cardiovascular and Metabolic Sciences in the Lerner Research Institute. Klotho is a 130-kDa protein encoded by the KL gene that plays a role in the regulation of aging and longevity. Beyond its role in aging, Klotho has become an intriguing target for investigation in heart failure as Klotho deficiency exacerbates cardiac dysfunction and remodeling following cardiac injury. Hence, my project involved using a human soluble α-Klotho Enzyme-linked Immunosorbent Assay Kit to compare human serum Klotho concentrations between patients with heart failure with reduced ejection fraction (HFrEF) and healthy controls. The data collection for this project is finished and our team is currently in the final stages of data analysis, preapring a manuscript to send for publication soon. 
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

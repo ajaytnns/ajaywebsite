@@ -1,0 +1,35 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/CNS06759.JPEG"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/ajaymahenthira2
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ajay-mahenthiran-61b867262/
+    - icon: envelope
+      text: Email
+      href: "mailto:akm165@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+My name is Ajay Mahenthiran, I am a current Master's of Public Health (MPH) candidate at Case Western Reserve University (CWRU) on the Intensive Research Pathway within the Population Health Research Concentration. I will also be joining the CWRU School of Medicine as an M1 in July 2025. My career interests lie in bio statistics and how we can utilize big data to help inform medicine and public health initiatives. 
+
+During my undergraduate at CWRU, I obtained a Bachelor's of Science in Biology while also competing on the Men's Varsity Tennis Team. I have had immense research experience in working as a student researcher within University Hospital's Department of Orthopedics and in the Department of Cardiovascular Medicine at the Cleveland Clinic's Lerner Research Institute. I have also worked part-time as a patient transporter at University Hospitals and as a peer tutor in CWRU's division of student affairs. 
+
+On this website, you will find a selection of my professional experiences as well as information on my current research projects. I invite you to explore my website and learn more about my work as a future public health professional. Please feel free to [contact me](mailto:akm165@case.edu)  if you have any questions or would like to discuss potential projects.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
